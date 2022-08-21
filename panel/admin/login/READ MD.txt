@@ -1,0 +1,13 @@
+/* 
+    Aplication Web Panel SMM
+    Version : Panel v1
+    Copyright : 2019
+    Feature : Sosial Media Marketing
+    Web : http://frendysantoso.blogspot.com
+    Web Panel : http://borneopanel.com
+    Cek Script : https://frendysantoso.my.id
+    Created by Frendy Santoso
+
+    // Don't Remove Copyright
+
+*/
